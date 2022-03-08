@@ -1,5 +1,5 @@
 //go:build !baremetal
-//+build !baremetal
+// +build !baremetal
 
 package tjpgd
 
