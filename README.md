@@ -1,3 +1,5 @@
+[![CircleCI](https://circleci.com/gh/sago35/go-tjpgd/tree/main.svg?style=svg)](https://circleci.com/gh/sago35/go-tjpgd/tree/main)
+
 # go-tjpgd
 
 `go-tjpgd` is the go-binding of TJpgDec.  
